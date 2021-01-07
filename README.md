@@ -26,3 +26,4 @@ Código fonte apresentado no curso de Java gratuito do blog loiane.com
 * Exercicios Aulas 36 a 43 https://pt2.slideshare.net/loianeg/curso-java-basico-exercicios-aulas-36-a-43
 * Exercicios Aulas 44 a 46 https://pt2.slideshare.net/loianeg/curso-java-basico-exercicios-aulas-44-a-46
 * Exercicios Aulas 47 a 52 https://pt2.slideshare.net/loianeg/curso-java-basico-exercicios-aulas-47-a-52
+# this line has been added to demostrate the usage of git pull
